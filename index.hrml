@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coming Soon - Cab Service in Vellore</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #1e3c72, #2a5298);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 0.5em;
+        }
+
+        p {
+            font-size: 1.5em;
+            margin-bottom: 1.5em;
+        }
+
+        .highlight {
+            color: #fbc531;
+            font-weight: bold;
+        }
+
+        .footer {
+            position: absolute;
+            bottom: 20px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚖 Something Big is Coming Soon in <span class="highlight">Vellore</span></h1>
+    <p>A New <span class="highlight">Cab Service</span> is on the Way!</p>
+    <p>Stay Tuned for a Better Ride Experience</p>
+
+    <div class="footer">
+        &copy; 2025 FortCity Taxi . All rights reserved.
+    </div>
+</body>
+</html>
